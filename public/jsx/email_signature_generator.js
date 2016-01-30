@@ -89,7 +89,7 @@ define([
                             className="logo"
                             src={this.props.themes.black.logoUrl}
                             width="200"
-                            height="31"
+                            height="52"
                             alt={properties.thoughtworksLabel}
                             title={properties.thoughtworksLabel}
                         />

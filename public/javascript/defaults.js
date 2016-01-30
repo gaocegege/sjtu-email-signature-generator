@@ -2,11 +2,11 @@
 define([], function () {
     "use strict";
     return {
-        "language": "en",
-        "theme": "pink",
-        "name": "Thought Worker",
-        "title": "Consultant",
-        "email": "tworker@thoughtworks.com",
+        "language": "zh",
+        "theme": "blue",
+        "name": "高策",
+        "title": "上海交通大学软件学院F12",
+        "email": "gaocegege@hotmail.com",
         "telephone": "+1 234 567 8910"
     };
 });

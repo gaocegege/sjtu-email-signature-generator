@@ -58,7 +58,7 @@ define(["react"], function (React) {
                         <td width="300" colSpan="2"><a href={this.props.logo.href}><img
                         src={this.props.logo.src}
                         width="200"
-                        height="31"
+                        height="52"
                         alt={this.props.logo.alt}
                         title={this.props.logo.alt}
                         style={{

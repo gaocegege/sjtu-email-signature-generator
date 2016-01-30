@@ -6,72 +6,72 @@ define([], function () {
             "black": {
                 "color": "rgb(255, 255, 255)",
                 "backgroundColor": "rgb(0, 0, 0)",
-                "logoUrl": staticAssetsUrl + "/images/thoughtworks_logo_black.png"
+                "logoUrl": staticAssetsUrl + "/images/sjtulogoblue.png"
             },
             "blue": {
                 "color": "rgb(255, 255, 255)",
                 "backgroundColor": "rgb(38, 189, 207)",
-                "logoUrl": staticAssetsUrl + "/images/thoughtworks_logo_blue.png"
+                "logoUrl": staticAssetsUrl + "/images/sjtulogoblue.png"
             },
             "earth": {
                 "color": "rgb(255, 255, 255)",
                 "backgroundColor": "rgb(94, 62, 42)",
-                "logoUrl": staticAssetsUrl + "/images/thoughtworks_logo_earth.png"
+                "logoUrl": staticAssetsUrl + "/images/sjtulogoblue.png"
             },
             "green": {
                 "color": "rgb(255, 255, 255)",
                 "backgroundColor": "rgb(17, 170, 88)",
-                "logoUrl": staticAssetsUrl + "/images/thoughtworks_logo_green.png"
+                "logoUrl": staticAssetsUrl + "/images/sjtulogoblue.png"
             },
             "iceBlue": {
                 "color": "rgb(255, 255, 255)",
                 "backgroundColor": "rgb(128, 201, 210)",
-                "logoUrl": staticAssetsUrl + "/images/thoughtworks_logo_ice_blue.png"
+                "logoUrl": staticAssetsUrl + "/images/sjtulogoblue.png"
             },
             "lime": {
                 "color": "rgb(255, 255, 255)",
                 "backgroundColor": "rgb(181, 185, 53)",
-                "logoUrl": staticAssetsUrl + "/images/thoughtworks_logo_lime.png"
+                "logoUrl": staticAssetsUrl + "/images/sjtulogoblue.png"
             },
             "magenta": {
                 "color": "rgb(255, 255, 255)",
                 "backgroundColor": "rgb(177, 28, 84)",
-                "logoUrl": staticAssetsUrl + "/images/thoughtworks_logo_magenta.png"
+                "logoUrl": staticAssetsUrl + "/images/sjtulogoblue.png"
             },
             "mint": {
                 "color": "rgb(255, 255, 255)",
                 "backgroundColor": "rgb(137, 183, 127)",
-                "logoUrl": staticAssetsUrl + "/images/thoughtworks_logo_mint.png"
+                "logoUrl": staticAssetsUrl + "/images/sjtulogoblue.png"
             },
             "ocean": {
                 "color": "rgb(255, 255, 255)",
                 "backgroundColor": "rgb(26, 115, 186)",
-                "logoUrl": staticAssetsUrl + "/images/thoughtworks_logo_ocean.png"
+                "logoUrl": staticAssetsUrl + "/images/sjtulogoblue.png"
             },
             "orange": {
                 "color": "rgb(255, 255, 255)",
                 "backgroundColor": "rgb(247, 143, 49)",
-                "logoUrl": staticAssetsUrl + "/images/thoughtworks_logo_orange.png"
+                "logoUrl": staticAssetsUrl + "/images/sjtulogoblue.png"
             },
             "pink": {
                 "color": "rgb(255, 255, 255)",
                 "backgroundColor": "rgb(239, 91, 161)",
-                "logoUrl": staticAssetsUrl + "/images/thoughtworks_logo_pink.png"
+                "logoUrl": staticAssetsUrl + "/images/sjtulogoblue.png"
             },
             "plum": {
                 "color": "rgb(255, 255, 255)",
                 "backgroundColor": "rgb(106, 37, 105)",
-                "logoUrl": staticAssetsUrl + "/images/thoughtworks_logo_plum.png"
+                "logoUrl": staticAssetsUrl + "/images/sjtulogoblue.png"
             },
             "red": {
                 "color": "rgb(255, 255, 255)",
                 "backgroundColor": "rgb(238, 49, 45)",
-                "logoUrl": staticAssetsUrl + "/images/thoughtworks_logo_red.png"
+                "logoUrl": staticAssetsUrl + "/images/sjtulogoblue.png"
             },
             "warmth": {
                 "color": "rgb(255, 255, 255)",
                 "backgroundColor": "rgb(158, 120, 95)",
-                "logoUrl": staticAssetsUrl + "/images/thoughtworks_logo_warmth.png"
+                "logoUrl": staticAssetsUrl + "/images/sjtulogoblue.png"
             }
         };
     };
